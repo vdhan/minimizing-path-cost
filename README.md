@@ -1,1 +1,2 @@
-# minimizing-path-cost
+# Minimizing path cost
+Optimize path cost in weighted, undirected graph
